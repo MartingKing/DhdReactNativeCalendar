@@ -81,8 +81,9 @@ npx expo prebuild
 ```bash
 npx expo run:android
 ```
-![image](https://github.com/MartingKing/DhdReactNativeCalendar/tree/main/assets/images/1.jpg)
-![image](https://github.com/MartingKing/DhdReactNativeCalendar/tree/main/assets/images/WechatIMG252.jpg)
-![image](https://github.com/MartingKing/DhdReactNativeCalendar/tree/main/assets/images/WechatIMG254.jpg)
-![image](https://github.com/MartingKing/DhdReactNativeCalendar/tree/main/assets/images/WechatIMG255.jpg)
-![image](https://github.com/MartingKing/DhdReactNativeCalendar/tree/main/assets/images/WechatIMG256.jpg)
+![image](./pictures/1.jpg)
+![image](./pictures/2.jpg)
+![image](./pictures/3.jpg)
+![image](./pictures/4.jpg)
+![image](./pictures/5.jpg)
+![image](./pictures/6.jpg)
