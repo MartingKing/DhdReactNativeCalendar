@@ -1,5 +1,6 @@
 ## 八字排盘，老黄历，生日提醒，实现技术为reactnative，适配Android，Ios，Web三端
 ## 奇门遁甲排盘请查看仓库的奇门遁甲项目
+## 农历日期选择器 公历日期选择器
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
