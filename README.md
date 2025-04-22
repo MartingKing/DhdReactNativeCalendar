@@ -88,3 +88,6 @@ npx expo run:android
 ![image](./pictures/4.jpg)
 ![image](./pictures/5.jpg)
 ![image](./pictures/6.jpg)
+![image](./pictures/7.jpg)
+![image](./pictures/8.jpg)
+![image](./pictures/9.jpg)
